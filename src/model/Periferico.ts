@@ -1,6 +1,6 @@
 import { Produto } from "./Produto";
 
-export class Periférico extends Produto{
+export class Periferico extends Produto{
 
     private _componente: string;
 
