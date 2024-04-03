@@ -19,7 +19,7 @@ let cod: number;
     console.log("|        5 - Deletar o produto                -|");
     console.log("|        0 - Sair                             -|");
     console.log("|                                             -|");
-    console.log("|-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--|");
+    console.log("|-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*|");
 
         console.log("Entre com a opção desejada: ")
         cod = leia.questionInt("");
