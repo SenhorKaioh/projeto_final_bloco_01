@@ -6,10 +6,10 @@ let cod: number;
 
  do{
 
-    console.log("|*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-|")
-    console.log("|                                             -|")
-    console.log("| LOJAS CARIOCAS - Informática e  Periféricos -|")
-    console.log("|                                             -|")
+    console.log("|*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-|");
+    console.log("|                                             -|");
+    console.log("|   LOJAS CARIOCAS - Hardware e Periféricos   -|");
+    console.log("|                                             -|");
     console.log("|-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--|");
     console.log("|                                             -|");
     console.log("|        1 - Listar todos os Produtos         -|");
